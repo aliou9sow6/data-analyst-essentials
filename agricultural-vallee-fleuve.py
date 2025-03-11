@@ -18,3 +18,4 @@ print("-> df.describe() : \n",df.describe())
 print("-> df.columns : \n",df.columns)
 print("-> df.head() : \n",df.head())
 print("\n-------------| Fin de l'information sur les données |------------\n")
+
