@@ -1,0 +1,39 @@
+{
+    "bankruptcy": {
+        "name": "Bankruptcy in Poland",
+        "description": "This dataset contains information about bankruptcies in Poland, including the number of bankruptcies, the type of bankruptcy, and the year of bankruptcy.",
+        "url": "https://www.krs-online.com.pl/aktualnosci,bankructwa-w-polsce,artykul,1,1,1.html",
+        "data": [
+            {
+                "company_id": "001",
+                "year": 2010,
+                "number_of_bankruptcies": 1000,
+                "type_of_bankruptcy": "Corporate"
+            },
+            {
+                "company_id": "002",
+                "year": 2011,
+                "number_of_bankruptcies": 1200,
+                "type_of_bankruptcy": "Corporate"
+            },
+            {
+                "company_id": "003",
+                "year": 2012,
+                "number_of_bankruptcies": 1500,
+                "type_of_bankruptcy": "Individual"
+            },
+            {
+                "company_id": "004",    
+                "year": 2013,
+                "number_of_bankruptcies": 1300,
+                "type_of_bankruptcy": "Corporate"
+            },
+            {
+                "company_id": "005",
+                "year": 2014,
+                "number_of_bankruptcies": 1400,
+                "type_of_bankruptcy": "Individual"
+            }
+        ]
+    }
+}
